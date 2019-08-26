@@ -1,0 +1,9 @@
+.*
+!.gitignore
+!.arcconfig
+*.iml
+logs
+*.log
+target
+temp
+*.png
